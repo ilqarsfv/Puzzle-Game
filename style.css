@@ -1,0 +1,21 @@
+/* body {
+    margin: 0;
+} */
+#oyun {
+    width: 600px;
+    height: 400px;
+    box-shadow: 0 0 10px #333;
+    position: relative;
+}
+#oyun>div {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+}
+#anasekil {
+    height: 150px;
+    margin-left: 13%;
+    margin-top: 20px;
+    box-shadow: 0 0 10px #333;
+}
